@@ -52,5 +52,6 @@ for line in text.readlines():
         completed_tasks.write(new_line)
         
 
+print(todays_file + '.txt successfully created')
 todays_file.close()
 completed_tasks.close()

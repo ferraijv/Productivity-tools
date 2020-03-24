@@ -1,5 +1,9 @@
 Daily Tasks
 
-This is a test []
-This is also a test [] 
-How about this one? []
+Build the same process for CDW data []
+Create Pipeline for Andrew's modeling []
+Attend Marketing onboarding [] 
+Create logging system for structural change detection []
+Make the history check a shorter time period []
+Fill in Q2 priorities []
+Look into virtual environment system for R. Bring this up in next team meeting []

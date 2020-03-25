@@ -25,7 +25,6 @@ os.chdir('C:/users/e144483/productivity/productivity-tools')
 
 # Grab the most recent daily task
 most_recent_daily = sorted(os.listdir('daily'), reverse = True)[0]
-most_recent_daily = '20200301.txt'
 text = open('daily/'+most_recent_daily, 'r')
 
 

@@ -1,9 +1,18 @@
 Daily Tasks
 
-Build the same process for CDW data []
-Create Pipeline for Andrew's modeling []
-Attend Marketing onboarding [] 
-Create logging system for structural change detection []
-Make the history check a shorter time period []
-Fill in Q2 priorities []
-Look into virtual environment system for R. Bring this up in next team meeting []
+
+GET DONE TODAY:
+Connect to CDW and pull in necessary data for structural detection [done]
+Attend Marketing onboarding [done] 
+Make the history check a shorter time period [done]
+
+GET DONE THIS WEEK:
+Fill in Q2 priorities [] WEDNESDAY
+Build the same process for CDW data [] Wednesday
+Create Pipeline for Andrew's modeling [] FRIDAY
+Create logging system for structural change detection [] Thursday
+Pull in another metric into structure monitoring. I can't remember what the other metric is [] WEDNESDAY
+Have discussion with Josh about the LinkedIn scraping project [] WEDNESDAY
+
+LONGER TERM:
+Look into virtual environment system for R. Bring this up in next team meeting [] 

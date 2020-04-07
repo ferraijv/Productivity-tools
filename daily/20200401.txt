@@ -1,0 +1,38 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+
+
+
+GET DONE THIS WEEK:
+Create presentation about virtual environments in R [] THURSDAY
+Create Pipeline for Andrew's modeling [] FRIDAY
+
+BY PROJECT:
+
+  AWS Implementation:
+Awaiting Accenture background check
+
+  Linux Server:
+Waiting on IT
+
+
+  Ancillaries:
+I have sent the cleaned up data file to Jessica for approval
+
+
+  Search Anomaly Detection:
+I have finished the daily structural change process and am now testing that process and developing the pipeline for Andrew's modeling
+
+
+  Other:
+Video with JC April 7th - Intro & overview of what im working on
+
+
+Automated:
+
+
+
+
+

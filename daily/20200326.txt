@@ -1,0 +1,23 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+Add page views to the structural change detection process for Adobe data [done] 
+Create logging system for structural change detection [done] 
+Add logic to pull history when historical changes are detected. We don't want to alert to the same change more than once [done]
+
+
+GET DONE THIS WEEK:
+Create Pipeline for Andrew's modeling [] FRIDAY
+Clean up search anomaly detection process and make it production ready [] FRIDAY
+
+LONGER TERM:
+Look into virtual environment system for R. Bring this up in next team meeting [] 
+Do some preliminary research on linux servers so you can participate in meetings [] 
+Do some preliminary research on AWS so you can particiapate in meetings [] 
+
+
+Notes:
+
+LYLTY_ACCT_INDV_SOC_MDIA_HNDL_PROF
+MKTG_PROD_VW for segmentation

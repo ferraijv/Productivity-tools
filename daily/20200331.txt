@@ -1,0 +1,41 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+Debug structural change detection history log process [done]
+Send open end results file to Jessica for approval [done]
+
+GET DONE THIS WEEK:
+Create presentation about virtual environments in R [] 
+Create Pipeline for Andrew's modeling [] 
+Set up weekly meeting with Vijay []
+
+
+BY PROJECT:
+
+  AWS Implementation:
+Awaiting Accenture background check
+
+  Linux Server:
+I don't know where we stand with this
+
+
+  Ancillaries:
+I have met with Jessica and been given the task of cleaning the data and getting it ready for presentation
+
+
+
+  Search Anomaly Detection:
+I have finished the daily structural change process and am now testing that process and developing the pipeline for Andrew's modeling
+
+
+  Other:
+Video with JC April 7th - Intro & overview of what im working on
+
+
+Automated:
+
+
+
+
+

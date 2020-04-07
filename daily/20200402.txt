@@ -1,0 +1,39 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+Extract all the survey data from the powerpoint needed for the normalization project [done]
+Create pretty slide for the freeform survey response project [done]
+Weekly update to Lin by 5pm [done]
+Set up a meeting with Amber for segmentation training [] 
+Set up call with Josh Webb []
+Respond to Lin's email about Data Science Platform [done]
+
+GET DONE THIS WEEK:
+Create Pipeline for Andrew's modeling [] 
+Create presentation about virtual environments in R []
+Login to data science server []
+Send weekly email to Vijay about ancillary []
+
+BY PROJECT:
+
+  AWS Implementation:
+Awaiting Accenture background check
+
+  Linux Server:
+Waiting on IT
+
+
+  Ancillaries:
+
+
+
+  Search Anomaly Detection:
+I have finished the daily structural change process and am now testing that process and developing the pipeline for Andrew's modeling
+
+
+  Other:
+Video with JC April 7th - Intro & overview of what im working on
+
+
+Automated:

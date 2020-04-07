@@ -1,0 +1,39 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+Create Pipeline for Andrew's modeling [] 
+Clean up search anomaly detection process and make it production ready [done] 
+Add Element dictionary to Excel file [done] 
+Modify dates in structural anomaly detection process to one year ago [done]
+
+GET DONE THIS WEEK:
+
+
+
+BY PROJECT:
+
+  AWS Implementation:
+Awaiting Accenture background check
+
+  Linux Server:
+
+
+
+  Ancillaries:
+Meet with Jessica to discuss freeform survey responses []
+
+  Search Anomaly Detection:
+
+
+  Other:
+Create presentation about virtual environments in R [] 
+
+
+
+Automated:
+
+
+
+
+

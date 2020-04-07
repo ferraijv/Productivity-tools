@@ -1,0 +1,38 @@
+Daily Tasks
+
+
+GET DONE TODAY:
+Set up call with Josh Webb []
+Create presentation about virtual environments in R [done]
+Remove brands with 1 entry from open end survey powerpoint slides. Use discretion about 2 [done]
+Create Pipeline for Andrew's modeling [done] 
+
+GET DONE THIS WEEK:
+
+On Hold:
+Gather internal SWA data and put it in Excel [] Waiting on response from Helen
+Send weekly email to Vijay about ancillary [] Next Week
+
+BY PROJECT:
+
+  AWS Implementation:
+Awaiting Accenture background check
+
+  Linux Server:
+Login to data science server [] Waiting on permissions
+
+  Open end Survey responses:
+Awaiting response from Jessica
+
+Normalize Survey Data:
+Need to gather the internal SWA data []
+
+  Search Anomaly Detection:
+I have finished the daily structural change process and am now testing that process and developing the pipeline for Andrew's modeling
+
+
+  Other:
+Video with JC April 8th - Intro & overview of what im working on
+
+
+Automated:

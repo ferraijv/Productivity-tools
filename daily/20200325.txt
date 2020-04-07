@@ -1,5 +1,24 @@
 Daily Tasks
 
-This is a test []
-This is also a test [] 
-How about this one? []
+
+GET DONE TODAY:
+Fill in Q2 priorities [done] 
+Build the same process for CDW data [done] 
+Have discussion with Josh about the LinkedIn scraping project [done] 
+Add page views [] 
+Group entry pages together [done]
+
+GET DONE THIS WEEK:
+Create Pipeline for Andrew's modeling [] FRIDAY
+Create logging system for structural change detection [] Thursday
+Look into virtual environment system for R. Bring this up in next team meeting [] FRIDAY
+Add logic to pull history when historical changes are detected. We don't want to alert to the same change more than once [] THURSDAY
+Clean up search anomaly detection process []
+
+LONGER TERM:
+
+
+Notes:
+
+LYLTY_ACCT_INDV_SOC_MDIA_HNDL_PROF
+MKTG_PROD_VW for segmentation
